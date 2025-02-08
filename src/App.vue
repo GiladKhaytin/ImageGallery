@@ -1,3 +1,9 @@
+/**
+This Site is a ImageGallery, when you click on one of the images it trigger the code and enlarge the image.
+Also, in the code there is a hover function.
+The script provide images and important variables to the code. 
+*/
+
 <script lang="ts">
 
 import { ref } from 'vue';
